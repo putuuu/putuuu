@@ -46,11 +46,6 @@ An application that connects content creators with their audience.
 
 ---
 
-### 📌 What I Care About
-- Building tools players actually use
-
----
-
 ### 🌱 Currently
 - Improving frontend fundamentals
 - Learning backend & data concepts
