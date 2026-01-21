@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there 👋 I'm Putu
 
-<!--
-**putuuu/putuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who enjoys building **web-based tools and visual guides**, with a focus on clarity, usability, and clean design.
 
-Here are some ideas to get you started:
+Currently exploring:
+- 🌱 Modern web development (React, Next.js, TypeScript)
+- 🧩 Data-driven UI & interactive builders
+- 🎮 Game-related tools & guide websites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Project
+**Magic Chess GoGo (MCGG)**  
+A visual, beginner-friendly guide platform for Magic Chess (4v4 & Solo).
+
+![MCGG Preview](./public/ss/home.png)
+
+---
+
+### 🛠 Tech Stack
+- JavaScript / TypeScript  
+- React / Next.js  
+- HTML / CSS  
+
+---
+
+### 📌 What I Care About
+- Clear UI over data overload
+- Visual-first documentation
+- Building things people actually use
+
+---
+
+### 📫 Let's Connect
+Feel free to explore my repositories or reach out if you want to collaborate.
