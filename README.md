@@ -21,6 +21,9 @@ I'm a game enthusiast at heart, with growing interests in **data and backend sys
 **Secondary**
 - ☕ Java
 - 📱 Kotlin
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=putuuu&layout=compact)
+
 
 **Learning / Exploring**
 - Frontend best practices & UI architecture
