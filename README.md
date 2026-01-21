@@ -32,12 +32,13 @@ I'm a game enthusiast at heart, with growing interests in **data and backend sys
 **Magic Chess GoGo (MCGG)**  
 A visual, beginner-friendly guide platform for Magic Chess.
 https://mcgg-khoceng.vercel.app/
+Magic Chess Guide
 ![MCGG Preview](./home.png)
-
+Creo Project
+![Creo Project](./Slide_1.jpg)
 ---
 
 ### 📌 What I Care About
-- Visual explanations over raw data
 - Building tools players actually use
 
 ---
