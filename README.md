@@ -1,35 +1,46 @@
 ## Hi there 👋 I'm Putu
 
-I'm a developer who enjoys building **web-based tools and visual guides**, with a focus on clarity, usability, and clean design.
+I'm a **web developer focused on game-related projects**, such as **guides, tools, and data-driven websites**.
 
-Currently exploring:
-- 🌱 Modern web development (React, Next.js, TypeScript)
-- 🧩 Data-driven UI & interactive builders
-- 🎮 Game-related tools & guide websites
+I'm a game enthusiast at heart, with growing interests in **data and backend systems**, while actively learning and improving my **frontend skills**.
+
+---
+
+### 🎮 Focus
+- Game guide websites & companion tools
+- Data-driven content for games
+
+---
+
+### 🛠 Tech Stack
+**Main**
+- ⚛️ React
+- 🐍 Python
+
+**Secondary**
+- ☕ Java
+- 📱 Kotlin
+
+
+**Learning / Exploring**
+- Frontend best practices & UI architecture
+- Backend fundamentals & data processing
 
 ---
 
 ### 🚀 Featured Project
 **Magic Chess GoGo (MCGG)**  
-A visual, beginner-friendly guide platform for Magic Chess (4v4 & Solo).
-
-![MCGG Preview](./public/ss/home.png)
-
----
-
-### 🛠 Tech Stack
-- JavaScript / TypeScript  
-- React / Next.js  
-- HTML / CSS  
+A visual, beginner-friendly guide platform for Magic Chess.
+https://mcgg-khoceng.vercel.app/
+![MCGG Preview](./home.png)
 
 ---
 
 ### 📌 What I Care About
-- Clear UI over data overload
-- Visual-first documentation
-- Building things people actually use
+- Visual explanations over raw data
+- Building tools players actually use
 
 ---
 
-### 📫 Let's Connect
-Feel free to explore my repositories or reach out if you want to collaborate.
+### 📫 Connect
+Feel free to explore my repositories or reach out for collaboration.
